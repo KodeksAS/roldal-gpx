@@ -142,6 +142,7 @@ Arkitektur i Røldal-serien
     <name>Havrenos</name>
     <cmt>Utsikt over heile Røldal</cmt>
     <desc>Utsikt over heile Røldal</desc>
+    <sym>generic</sym>
     <link href=" https://www.roldal.no/opplevingar/bygderunden#havrenos"/>
   </wpt>
   <wpt lat="59.822158" lon="6.817897">
