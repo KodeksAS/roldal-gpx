@@ -121,6 +121,7 @@
     <ele>400.3067239387099</ele>
     <name>Kalvatræet</name>
     <cmt>Arkitektur i Røldal-serien
+    <sym>generic</sym>
 Arkitektur i Røldal-serien
 </cmt>
     <desc>Arkitektur i Røldal-serien
@@ -133,6 +134,7 @@ Arkitektur i Røldal-serien
     <name>Røldal Bygdemuseum –tradisjonell byggjeskikk i fjellbygda</name>
     <cmt>Arkitektur i Røldal-serien</cmt>
     <desc>Arkitektur i Røldal-serien</desc>
+    <sym>generic</sym>
     <link href="https://www.roldal.no/opplevingar/bygderunden#bygdemuseum-arkitektur"/>
   </wpt>
   <wpt lat="59.84278" lon="6.827657">
@@ -147,6 +149,7 @@ Arkitektur i Røldal-serien
     <name>Kraftstasjonen i Røldal – monumental modernisme i fjellet</name>
     <cmt>Arkitektur i Røldal-serien</cmt>
     <desc>Arkitektur i Røldal-serien</desc>
+    <sym>generic</sym>
     <link href="https://www.roldal.no/opplevingar/bygderunden#røldal-kraftstasjon-arkitektur"/>
   </wpt>
   <trk>
