@@ -7,6 +7,13 @@
       <link href="https://gpx.studio"/>
     </author>
   </metadata>
+<wpt lat="59.784381" lon="6.789089">
+    <ele>431.30957195826244</ele>
+    <name>Sykkeltur til Odland</name>
+    <cmt>Familiesykkeltur langs Røldalsvatnet inn til Odland.</cmt>
+    <desc>Familiesykkeltur langs Røldalsvatnet inn til Odland.</desc>
+    <sym>Bike Trail</sym>
+  </wpt>
   <trk>
     <name>Sykkeltursti Odland</name>
     <trkseg>
